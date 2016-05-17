@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import RSBarcodes_Swift
 
 class ScanViewController: RSCodeReaderViewController {
 
