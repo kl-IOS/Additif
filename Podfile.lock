@@ -1,0 +1,17 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - RSBarcodes_Swift (0.1.9)
+
+DEPENDENCIES:
+  - FMDB
+  - RSBarcodes_Swift (~> 0.1.9)
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  RSBarcodes_Swift: 3c37a05faa0c8742739e1b47eec2f0d3d786330f
+
+PODFILE CHECKSUM: b6b9dcc32cdd2b4030d4abc7cb265de336366edd
+
+COCOAPODS: 1.0.0
